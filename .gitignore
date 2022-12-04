@@ -1,0 +1,12 @@
+# ignore .exe
+*.exe
+# ignore .sln
+*.sln
+# ignore .vs, .vscode, x64 and Debug directories
+.vs/
+.vscode/
+Debug/
+x64/
+# ignore all local file in Visual Studio
+*.vcxproj.*
+*.vcxproj
