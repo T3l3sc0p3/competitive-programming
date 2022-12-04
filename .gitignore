@@ -7,6 +7,6 @@
 .vscode/
 Debug/
 x64/
-# ignore all local file in Visual Studio
+# ignore all local Visual Studio files
 *.vcxproj.*
 *.vcxproj
