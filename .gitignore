@@ -2,7 +2,7 @@
 *.exe
 # ignore .sln
 *.sln
-# ignore .vs, .vscode, x64 and Debug directories
+# ignore .vs*, x64 and Debug directories
 .vs/
 .vscode/
 Debug/
