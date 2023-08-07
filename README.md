@@ -6,6 +6,7 @@ Hi there! Here are my coding solutions from different online platforms. Feel fre
 
 Currently, my solutions are written in the following programming languages:
 
+- Bash
 - C/C++
 - Python
 
