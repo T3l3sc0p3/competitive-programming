@@ -11,5 +11,4 @@ if __name__ == '__main__':
     name = []
     for i in range(n):
         if new_min == lst[1][i]: name.append(lst[0][i])
-    name = sorted(name)
-    for i in name: print(i)
+    for i in sorted(name): print(i)
