@@ -8,7 +8,7 @@ Currently, my solutions are written in the following programming languages:
 
 - Bash
 - C/C++
-- Javascript
+- JavaScript
 - Python
 
 ## Structure
