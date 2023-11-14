@@ -1,5 +1,5 @@
-a,b = [int(i) for i in input().split()]
+a,b = map(int, input().split())
 if a == 0:
     if b == 0: print("WOW")
     else: print("NO")
-else: print("{:.2f}".format(-b/a))
+else: print(f"{-b/a:.2f}")
