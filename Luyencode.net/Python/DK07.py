@@ -3,7 +3,7 @@ def dk06(a,b):
     if a == 0:
         if b == 0: print("WOW")
         else: print("NO")
-    else: print(f"{-b/(a):.2f}")
+    else: print(f"{-b/a:.2f}")
 a,b,c = map(int,input().split())
 if a == 0: dk06(b,c)
 else:
