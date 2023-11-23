@@ -23,3 +23,5 @@ Currently, I'm not accepting contributions, but you can still use the repository
 If you have any suggestions or find any problems with the existing solutions, feel free to open an issue, and I'll be happy to discuss it.
 
 <!-- Note: It may not explain how the code works because I'm too lazy to write it 👀 -->
+
+![❤️](https://i.imgur.com/DGUrz76.gif)
