@@ -8,6 +8,7 @@ Currently, my solutions are written in the following programming languages:
 
 - Bash
 - C/C++
+- C#
 - Java
 - JavaScript
 - Python
@@ -24,4 +25,4 @@ If you have any suggestions or find any problems with the existing solutions, fe
 
 <!-- Note: It may not explain how the code works because I'm too lazy to write it 👀 -->
 
-![❤️](https://i.imgur.com/DGUrz76.gif)
+![❤️](https://raw.githubusercontent.com/T3l3sc0p3/CDN-for-personal-use/Kuriyama-Mirai/gifs/confess.gif)
