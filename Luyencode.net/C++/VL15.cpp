@@ -6,26 +6,22 @@ int gcd(int a, int b) {
 	return gcd(b, a % b);
 }
 int main() {
-	int a, b, ucln;
+	int a, b, c;
 	cin >> a >> b;
 	if (b == 0) {
 		cout << "INVALID";
-		return 0;
 	}
-	if (a % b == 0) {
-		cout << int(a / b) << endl;
-		return 0;
-	}
-	ucln = abs(gcd(a, b));
-	if (b < 0) {
-		a /= -1 * ucln;
-		b /= -1 * ucln;
-		cout << int(a) << " " << int(b) << endl;
-	}
+	else if (a % b == 0) {
+		cout << int(a/b) << endl;
+	} 
 	else {
-		a /= ucln;
-		b /= ucln;
-		cout << int(a) << " " << int(b) << endl;
+		c = abs(gcd(a, b));
+		if (b < 0) {
+			cout << -int(a/c) << " " << -int(b/c) << endl;
+		}
+		else {
+			cout << int(a/c) << " " << int(b/c) << endl;
+		}
 	}
 	return 0;
 }
