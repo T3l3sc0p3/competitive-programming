@@ -1,0 +1,1 @@
+input(); print(' '.join(str(_) for _ in sorted([int(i) for i in input().split()], reverse=True)))
