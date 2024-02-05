@@ -1,0 +1,5 @@
+_ = input; _()
+eng = set(map(int, _().split()))
+_()
+fr = set(map(int, _().split()))
+print(len(eng.intersection(fr)))
