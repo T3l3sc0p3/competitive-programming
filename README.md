@@ -1,6 +1,6 @@
 # Competitive Programming Solutions
 
-Hi there! Here are my coding solutions from different online platforms. Feel free to explore and learn from them! 💻
+Hi there! Here are my coding solutions from different online platforms. Feel free to explore and learn from them! :computer:
 
 ## Programming Languages
 
