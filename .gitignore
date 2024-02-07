@@ -1,25 +1,10 @@
-<<<<<<< HEAD
-### ignore all local vscode files and directories ###
-*.vcxproj.*
-*.vcxproj
-*.sln
-
-=======
 # ignore all local VSCode and Visual Studio files and directories
 *.vcxproj.*
 *.vcxproj
->>>>>>> c0f467a ([luyencode.net] Solved 6 problems)
 .vs/
 .vscode/
 Debug/
 x64/
-<<<<<<< HEAD
-
-# ignore .venv/
-.venv/
-# ignore .exe
-*.exe
-=======
 *.sln
 
 # ignore .exe
@@ -30,4 +15,3 @@ x64/
 
 # ignore node_modules
 node_modules/
->>>>>>> c0f467a ([luyencode.net] Solved 6 problems)
