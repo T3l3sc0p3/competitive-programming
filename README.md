@@ -16,7 +16,13 @@ Currently, my solutions are written in the following programming languages:
 
 ## Structure
 
-The repository is organized into folders based on the platform or contest they belong to. Inside each platform folder, you'll find solutions in different programming languages
+The repository is organized into folders based on the platform or contest they belong to. Inside each platform folder, you'll find solutions in different programming languages:
+
+- Codeforces.com
+- Codelearn.io
+- Hackerrank.com
+- Leetcode.com
+- Luyencode.net
 
 ## How to Contribute?
 
