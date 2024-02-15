@@ -6,6 +6,6 @@ int main()
 {
 	ll n;
 	cin >> n;
-	cout << (n+1)*n/2 << endl;
+	cout << (n*n+n)*(2*n+1)/6 << endl;
 	return 0;
 }
