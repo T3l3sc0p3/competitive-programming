@@ -33,5 +33,5 @@ If you have any suggestions or find any problems with the existing solutions, fe
 <!-- Note: It may not explain how the code works because I'm too lazy to write it 👀 -->
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/T3l3sc0p3/CDN-for-personal-use/Kuriyama-Mirai/gifs/i-cannot-accept-this.gif" alt=":hearts:">
+    <img src="https://raw.githubusercontent.com/T3l3sc0p3/CDN-for-personal-use/Kuriyama-Mirai/gifs/mirai-3.gif" alt=":hearts:">
 </p>
