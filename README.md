@@ -12,6 +12,7 @@ Currently, my solutions are written in the following programming languages:
 - C#
 - Java
 - JavaScript
+- Ruby
 - Python
 
 ## Structure
