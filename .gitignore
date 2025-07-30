@@ -13,5 +13,8 @@ x64/
 # ignore .venv
 .venv/
 
+# ignore Ruby LSP
+.ruby-lsp/
+
 # ignore node_modules
 node_modules/
