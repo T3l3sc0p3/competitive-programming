@@ -2,7 +2,7 @@
 
 Hi there! Here are my coding solutions from different online platforms
 
-I don't use any AI, it's just my knowledge + Google. Some code might be copied somewhere else or a total mess
+I don't use any AI, it's just my knowledge + Google. Some code might be copied somewhere else or a total mess ¯\_(ツ)_/¯
 
 ## Programming Languages
 
